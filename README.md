@@ -25,7 +25,7 @@ Username: test
 
 Password: test
 
-![ContactAPI](./.github/user.JPG)
+![ContactAPI](./.github/User.JPG)
 ![ContactAPI](./.github/token.JPG)
 
 Copy the Jwttoken and click on Authorize button at the top, authorization popup is displayed enter Bearer + token  and authorize the api endpoint access. 
