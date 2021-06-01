@@ -25,11 +25,11 @@ Username: test
 
 Password: test
 
-![ContactAPI](./.github/user.jpg)
-![ContactAPI](./.github/token.jpg)
+![ContactAPI](./.github/user.JPG)
+![ContactAPI](./.github/token.JPG)
 
 Copy the Jwttoken and click on Authorize button at the top, authorization popup is displayed enter Bearer + token  and authorize the api endpoint access. 
-![ContactAPI](./.github/authorize.jpg)
+![ContactAPI](./.github/authorize.JPG)
 
 Once the API endpoints gets authorized you may test the below end points.
 ![ContactAPI](./.github/endpoint.jpg)
