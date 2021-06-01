@@ -17,7 +17,7 @@ To create database objects run the following commands in Nugget package manager 
 * Update-Database
 
 Open and run the solution in visual studio 2019, Swagger UI is displayed.
- ![ContactAPI](./.github/swaggerhome.jpg)
+ ![ContactAPI](./.github/swaggerhome.JPG)
 
 In the 'Users' section click on POST button of JwtAuthenticate endpoint enter the following user credential to generate JWT token.
 
